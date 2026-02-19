@@ -57,7 +57,7 @@ Security is a core pillar of Diamond Solution:
 
 For detailed information about the platform, Solution Plans and the structured acquisition model, visit:
 
-👉 https://diamond-solution.io
+👉 https://diamond-solution.io/en
 
 ---
 
